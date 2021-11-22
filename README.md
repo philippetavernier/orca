@@ -1,7 +1,8 @@
 # orca
 
-https://metasyn.github.io/learn-orca/
-https://100r.co/site/orca.html
+-- https://metasyn.github.io/learn-orca/
+-- https://100r.co/site/orca.html
+-- https://wiki.xxiivv.com/site/orca.html
 
 ```
 .........................................................................
