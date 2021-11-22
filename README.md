@@ -1,7 +1,7 @@
 # orca
 
 https://metasyn.github.io/learn-orca/
-
+https://100r.co/site/orca.html
 
 ```
 .........................................................................
